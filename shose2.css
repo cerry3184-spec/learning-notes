@@ -1,0 +1,61 @@
+body {
+  background-color: lightgray;
+  border: 6px solid black;
+}
+h1 {
+  color: rgb(7, 7, 7);
+  font-size: 36px;
+  font-family: "Microsoft Yahei";
+  text-align: center;
+  background-color: aqua;
+  padding: 20px;
+}
+.the2nd-title {
+  color: rgb(0, 255, 255);
+  font-size: 24px;
+  text-align: center;
+}
+img {
+  width: 200px;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+.money,
+strong {
+  color: hsla(0, 100%, 50%, 0.904);
+  font-size: 18px;
+  text-align: center;
+  font-family: "Microsoft Yahei";
+}
+a:link {
+  color: rgb(31, 223, 14);
+  font-family: "Microsoft Yahei";
+  font-size: 15px;
+}
+a:visited {
+  color: rgb(0, 0, 0);
+  font-family: "Microsoft Yahei";
+  font-size: 15px;
+}
+a:hover {
+  color: rgb(255, 255, 255);
+  font-family: "Microsoft Yahei";
+  font-size: 15px;
+  background-color: black;
+  text-size-adjust: calc(50);
+}
+a:active {
+  color: rgb(255, 0, 0);
+  font-family: "Microsoft Yahei";
+  font-size: 15px;
+}
+
+button {
+  font-size: 16px;
+  font-family: "Microsoft Yahei";
+  border: 5px solid rgb(0, 0, 0);
+}
+button:hover {
+  background-color: yellow;
+}
