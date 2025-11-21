@@ -1,2 +1,4 @@
 memorize point 
 在有背景色的时候，用padding,只想扩大空间，margin bottom,还有就是上边一个的margin bottom10px会和下面的margin top重合起来，也许不是margin 反正就是空间
+margin 0 auto=margin leftt+right
+内联就是缩在一起，和正常的打字这种是一样的，块元素有个盒子可以美化，注意，有一个内联块元素，组合体。
