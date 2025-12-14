@@ -4,3 +4,4 @@ margin 0 auto=margin leftt+right
 内联就是缩在一起，和正常的打字这种是一样的，块元素有个盒子可以美化，注意，有一个内联块元素，组合体。
 float的就是一种三维世界里跳出平面的方式，相当于创造了一个新的层，那么对于高度塌陷来说，就是在比如一个boder内部的element使用了float，浏览器无法计算到内部element的高度等等。
 现代文本的开发，border-box就是把你定义的width就是实际宽度，不用管padding
+我靠，在没有学习js的情况下，看according。html，用open的优先级选择器，直接就是一个先把要隐藏的东西display：none，然后在open中改变为block使显现，在像把其他的都删掉，然后在open呢里面再次编辑一个打开状态。就这样编辑出了一个不需要js的交互界面
